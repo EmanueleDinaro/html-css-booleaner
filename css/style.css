@@ -37,3 +37,21 @@ h1{
 .foto-tim{
     font-size: 12px;
 }
+
+.tabella{
+    width: 100%;
+    text-align: left;
+}
+
+.intestazione-tabella{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.riga3{
+    width: 60%;
+}
+
+.riga-azzurra{
+    background-color: #B1E5F2;
+}
