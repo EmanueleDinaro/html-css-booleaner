@@ -9,3 +9,31 @@ header{
     width: 150px;
     margin: 10px;
 }
+
+h1{
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.autore-articolo{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.autore-articolo > #grey{
+    color: #808080;
+}
+
+.autore-articolo > #blue{
+    color: #20A9E5;
+    text-decoration: none;
+}
+
+#data-articolo{
+    color: #808080;
+    font-size: 12px;
+}
+
+.foto-tim{
+    font-size: 12px;
+}
