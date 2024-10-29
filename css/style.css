@@ -41,6 +41,7 @@ h1{
 .tabella{
     width: 100%;
     text-align: left;
+    border-collapse: collapse;
 }
 
 .intestazione-tabella{
